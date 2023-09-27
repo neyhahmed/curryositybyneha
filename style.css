@@ -1,0 +1,129 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #f7f3cf;
+    font-size: 23px;
+    margin: 0;
+
+}
+
+.slogan {
+    font-size: 25px;
+    color: #e3d834;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.heading1 {
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    background-color: #04341c;
+   
+
+}
+.heading2 {
+    color: #04341c;
+    font-size: 35px;
+    background-color:#7ba848;
+    margin-left: 00;
+    margin-right: 00
+    ;
+}
+
+.heading3 {
+    color: #04341c;
+    font-size: 35px;
+    background-color: #7ba848;
+}
+
+.heading4 {
+    color: #04341c;
+    font-size: 35px;
+    background-color: #7ba848;
+}
+
+.heading5 {
+    color: #04341c;
+    font-size: 35px;
+    background-color: #7ba848;
+}
+
+.heading6 {
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    background-color: #04341c;
+}
+
+.form {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #f7f3cf;
+    font-size: 23px;
+    text-align: center;
+    
+}
+
+.fontwithbg {
+    background-color: #7ba848;
+}
+
+.recipeheading {
+    color: #04341c;
+    font-size: 35px;
+   
+
+}
+header {
+    background-color: #04341c;
+    text-align: center;
+    padding: 30px;
+    color:rgb(255, 255, 255);
+}
+
+h1 {
+    font-family: 'Bungee Spice', cursive;
+    font-size: 70px;
+    margin-bottom: 0px;
+    color: #ffffff;
+}
+
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+nav {
+    background-color: #7ba848;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+main {
+    padding: 4rem;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
+
+footer {
+    background-color: #7ba848;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+}
